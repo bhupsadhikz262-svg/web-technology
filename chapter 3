@@ -1,0 +1,131 @@
+Group A: Short Questions (2 Marks)
+1. Define Information Architecture (IA).
+Information Architecture is the practice of organizing, structuring, 
+and labeling content on a website or application in a clear and logical way, 
+so that users can easily find information and navigate the system efficiently.
+
+2. What is a ”Wireframe”?
+A wireframe is a simple visual guide or blueprint of a website’s layout that 
+shows the arrangement of elements like headers, menus, content sections, and buttons without design details. 
+It focuses on structure and functionality rather than colors, fonts, or images.
+
+3. Explain the concept of ”Cognitive Friction” in web design.
+Cognitive friction refers to the mental effort or difficulty a user experiences when interacting with a website or application. 
+It occurs when navigation is confusing, information is unclear, or tasks are complicated, causing frustration and slowing down user actions. 
+Good web design minimizes cognitive friction by providing clear layouts, intuitive navigation, and simple instructions.
+
+4. Why should URL slugs use hyphens instead of underscores?
+URL slugs should use hyphens (-) instead of underscores (_) because:
+	1.	Search Engine Optimization (SEO): Search engines like Google treat hyphens as word separators, making URLs more readable and improving search rankings.
+	2.	Readability: Hyphens are easier for users to read and understand, e.g., www.example.com/web-design-tips is clearer than www.example.com/web_design_tips.
+	3.	Consistency: Hyphens are widely accepted as the standard for web URLs, ensuring better compatibility and user experience.
+
+
+Group B: Long Questions (4 Marks)
+5. Compare and contrast Hierarchical (Tree) structure and Linear (Sequential) structure.
+Give an example of when to use each.
+Aspect
+Hierarchical (Tree) Structure
+Linear (Sequential) Structure
+Definition
+Organizes content in a tree-like hierarchy with main categories branching into subcategories.
+Organizes content in a step-by-step sequence, where users follow a fixed order.
+Navigation
+Users can navigate freely between categories and subcategories.
+Users follow a predefined path; navigation is usually forward or backward only.
+Complexity
+Suitable for large websites with multiple sections.
+Suitable for simple websites or processes.
+Example Use Case
+University website with sections for admissions, departments, courses, news.
+Online tutorials, quizzes, or checkout process in e-commerce
+
+
+6. Explain the ”Three-Click Rule” and its significance in User Experience (UX) design.
+The Three-Click Rule is a web design guideline which suggests that 
+a user should be able to find any information on a website within three mouse clicks from the homepage.
+
+Significance in UX Design:
+	•	Improves Usability: Users can access information quickly without frustration.
+	•	Reduces Cognitive Load: Minimizes effort and confusion while navigating.
+	•	Enhances User Satisfaction: Faster and simpler navigation encourages users to stay on the site.
+
+Although modern UX focuses more on ease of navigation and clarity rather than strictly counting clicks, 
+the principle still emphasizes efficient and intuitive navigation.
+
+7. ”Plan before you do.” Explain how tools like Card Sorting and Flowcharts help in planning
+a website’s structure.
+Effective website planning ensures that the site is organized, user-friendly, and meets goals before development begins. 
+Tools like Card Sorting and Flowcharts help in this planning process:
+	1.	Card Sorting:
+	•	Users or designers organize topics or content into categories using cards.
+	•	Helps determine a logical and intuitive structure for menus, navigation, and content grouping.
+	•	Ensures the website matches user expectations.
+	2.	Flowcharts:
+	•	Visual diagrams that show the sequence of pages, user interactions, and navigation paths.
+	•	Helps identify the workflow, decision points, and dependencies between pages.
+	•	Ensures efficient information flow and reduces confusion in navigation.
+
+Conclusion:
+Using these tools prevents structural issues, reduces rework, and improves user experience, reinforcing the principle: plan before you do.
+
+
+Group C: Scenario-Based Questions (5 Marks)
+8. You are designing a website for a University. It has hundreds of pages (Admissions,
+Departments, Alumni, News). Which structural model would you choose? Draw a rough
+diagram and justify your choice.
+Recommended Structural Model: Hierarchical (Tree) Structure
+
+Justification:
+	•	A university website has large and diverse content (Admissions, Departments, Alumni, News).
+	•	Hierarchical structure allows categorization of information into main sections and sub-sections.
+	•	Users can navigate easily to the section they need without following a strict sequence.
+	•	It is scalable, allowing the addition of new departments, events, or news without reorganizing the entire site.
+Homepage
+ ├─ Admissions
+ │    ├─ Undergraduate
+ │    └─ Graduate
+ ├─ Departments
+ │    ├─ Computer Science
+ │    ├─ Physics
+ │    └─ Chemistry
+ ├─ Alumni
+ │    ├─ Events
+ │    └─ Achievements
+ └─ News
+      ├─ Campus News
+      └─ Research Updates
+This structure organizes content clearly and supports intuitive navigation for students, faculty, and visitors.
+
+9. A user visits a website but leaves within 10 seconds because they cannot find the navigation
+menu, which is hidden behind a small icon on a desktop screen. Analyze this design failure
+using the ”KISS” (Keep It Simple) principle.
+The KISS (Keep It Simple, Stupid) principle emphasizes that designs should be simple, clear, and intuitive for users.
+
+Design Failure:
+	•	Hiding the navigation menu behind a small icon on a desktop screen adds unnecessary complexity.
+	•	Users cannot easily find or access important links, causing frustration.
+	•	The website fails to provide straightforward and obvious navigation, leading to a high bounce rate.
+
+Lesson:
+Following the KISS principle, the navigation menu should be visible and easy to use, 
+especially on larger screens, ensuring users can find information quickly without extra effort. 
+Simple, clear design enhances usability and user satisfaction.
+
+10. An e-commerce website has a URL structure like www.shop.com/prod?id=55&cat=9. Ex-
+plain why this is bad for both users and Search Engines (SEO), and propose a better
+structure using Page Slugs.
+The URL www.shop.com/prod?id=55&cat=9 is bad for both users and SEO because:
+	1.	Not User-Friendly: It’s difficult to read, remember, or understand what the page is about.
+	2.	Poor SEO: Search engines cannot easily interpret the keywords, reducing the page’s ranking potential.
+	3.	Lacks Clarity: Does not describe the product or category, making sharing and linking less effective.
+
+Better Structure Using Page Slugs:
+
+Use a descriptive, readable URL with hyphens:
+www.shop.com/electronics/smartphone-xyz
+Benefits:
+	•	Readable & Memorable: Users can understand the content from the URL.
+	•	SEO-Friendly: Keywords like “electronics” and “smartphone-xyz” improve search rankings.
+•	Clean & Shareable: Easy to share on social media or in emails.
+	•	Clean & Shareable: Easy to share on social media or in emails.
