@@ -1,0 +1,123 @@
+Group A: Short Questions (2 Marks)
+1. Define the term ”Sitemap” in the planning phase.
+Sitemap (Planning Phase):
+A sitemap is a structured outline or diagram that shows the organization of all pages of a website and how they are linked together, 
+used during the planning phase to design clear navigation and site structure.
+2. What is the purpose of the ”Launch” phase in web development?
+Purpose of the Launch Phase:
+The launch phase in web development involves making the website live and accessible to users on the Internet. 
+It ensures that all features work correctly, the site is uploaded to the web server, 
+and any final testing, security checks, and optimizations are completed before public access.
+3. Why is ”Documentation” important in the development lifecycle?
+Documentation is important because it records all details of the website or software, including design, code, features, and functionality. 
+It helps developers, testers, and future maintainers to understand, update, and troubleshoot the system efficiently. 
+It also ensures consistency, clarity, and knowledge transfer throughout the development lifecycle.
+4. Differentiate between Front-end and Back-end development.
+Aspect
+Front-end Development
+Back-end Development
+Definition
+Deals with the part of the website that users see and interact with.
+Deals with the server-side, databases, and application logic behind the scenes.
+Technologies
+HTML, CSS, JavaScript, React, Angular
+PHP, Python, Java, Node.js, SQL databases
+Focus
+User interface (UI) and user experience (UX)
+Data processing, server logic, and functionality
+Output
+Visual elements like forms, buttons, menus
+Data storage, retrieval, and server responses
+
+
+Group B: Long Questions (4 Marks)
+5. ”Planning is the most critical phase of web development.” Discuss this statement by listing
+the key activities performed during the planning phase.
+Planning is considered the most critical phase of web development because it sets the foundation for the entire project. 
+A well-planned website ensures clear objectives, proper structure, smooth development, and reduced errors or rework later. 
+Poor planning can lead to delays, cost overruns, and a website that does not meet user needs.
+
+Key Activities in the Planning Phase:
+	1.	Requirement Analysis: Understanding the purpose of the website, target audience, and client expectations.
+	2.	Defining Goals and Objectives: Setting clear, measurable goals for the website.
+	3.	Creating a Sitemap: Outlining the structure and hierarchy of all web pages.
+	4.	Deciding Technology and Resources: Selecting the appropriate tools, platforms, and team roles.
+	5.	Planning Content: Determining what text, images, videos, and other media will be needed.
+	6.	Scheduling and Budgeting: Estimating time, cost, and resources required for the project.
+	7.	Risk Assessment: Identifying potential challenges and planning mitigation strategies.
+
+Proper planning ensures the development process is efficient, organized, and aligned with the client’s vision.
+
+6. Explain the iterative nature of the Maintenance phase. Why is a website never truly
+”finished”?
+Iterative Nature of the Maintenance Phase:
+
+The maintenance phase of web development is ongoing and repetitive because websites need continuous updates, improvements, and corrections. 
+This includes fixing bugs, updating content, improving security, adding new features, and ensuring compatibility with new browsers or devices.
+
+Why a Website is Never Truly “Finished”:
+A website is never truly finished because the Internet environment, user needs, and technology constantly change. 
+To remain functional, relevant, and secure, a website requires regular monitoring, updates, and optimization, making maintenance an iterative and continuous process.
+
+7. Describe the process of ”Information Gathering.” Why is understanding the target audi-
+ence crucial during this step?
+Process:
+Information gathering is the first step in web development where developers and designers collect all necessary data to understand the purpose and requirements of the website. This includes:
+	1.	Understanding the client’s goals and objectives.
+	2.	Identifying the content types (text, images, videos, etc.) needed.
+	3.	Researching competitors’ websites and industry standards.
+	4.	Determining technical requirements (platform, hosting, functionality).
+	5.	Collecting user expectations and preferences.
+
+Importance of Understanding the Target Audience:
+Understanding the target audience is crucial because it helps in designing a website that meets users’ needs, preferences, and behaviors. 
+It ensures the website is user-friendly, engaging, and effective in achieving its purpose, whether it’s providing information, selling products, or offering services. 
+Tailoring the design and content to the audience increases usability and satisfaction.
+
+
+Group C: Scenario-Based Questions (5 Marks)
+8. You are the project manager for a new e-commerce site. The client wants to skip the
+”Testing” phase to save money and launch early. Write a persuasive argument explaining
+the potential risks (security, functionality, compatibility) of skipping this phase.
+Persuasive Argument Against Skipping the Testing Phase:
+
+Skipping the testing phase may save money initially, but it can lead to serious risks that could be far more costly in the long run:
+	1.	Security Risks: Without testing, vulnerabilities may go unnoticed, leaving the site open to hacking, data theft, or fraud—especially critical for an e-commerce site handling customer payments.
+	2.	Functionality Issues: Unchecked bugs can cause broken links, failed transactions, slow loading, or errors in product listings, which frustrate users and harm the company’s reputation.
+	3.	Compatibility Problems: The website may not work correctly on all browsers, devices, or screen sizes, leading to poor user experience and lost sales.
+
+Conclusion: Testing ensures that the website is secure, reliable, and user-friendly. 
+Skipping it may result in financial losses, legal issues, and damage to brand credibility, outweighing any short-term cost savings. 
+Investing in testing is essential for a successful and trustworthy e-commerce launch.
+
+9. A developer begins coding a website immediately after meeting the client, without creating
+a design prototype or sitemap. Midway through, the client rejects the layout. Analyze
+what went wrong in the process and how it should have been handled.
+The main problem is that the developer skipped the planning and design phase, which includes creating a sitemap and design prototype. 
+Without these, the client could not visualize the website’s structure or layout, leading to rejection midway through development. This causes wasted time, effort, and resources.
+
+How It Should Have Been Handled:
+	1.	Requirement Analysis: Understand client goals, content, and expectations.
+	2.	Create Sitemap: Plan the structure and navigation of the website.
+	3.	Design Prototype/Wireframe: Show a visual representation of the layout for client approval.
+	4.	Client Approval: Get confirmation on the design before starting coding.
+
+Following this process ensures clear communication, reduces rework, and increases client satisfaction, making the development more efficient and organized.
+
+10. A university website was launched successfully, but after six months, students stopped
+visiting it because the exam schedules were outdated. Which phase of the development
+lifecycle was neglected? Explain the activities involved in this phase.
+Explanation:
+The maintenance phase ensures that a website remains up-to-date, functional, and relevant after launch. 
+In this case, the university website stopped attracting students because content (exam schedules) was not updated, showing that maintenance was neglected.
+
+Activities in the Maintenance Phase:
+	1.	Content Updates: Regularly updating information like schedules, news, and announcements.
+	2.	Bug Fixes: Identifying and correcting errors in functionality or design.
+	3.	Security Updates: Patching vulnerabilities to protect against cyber threats.
+	4.	Performance Optimization: Improving speed, loading times, and responsiveness.
+	5.	Compatibility Checks: Ensuring the site works on new browsers, devices, or operating systems.
+	6.	User Feedback Incorporation: Making changes based on user suggestions or complaints.
+  Neglecting maintenance can make a website stale, unreliable, and unattractive to users
+
+Neglecting maintenance can make a website stale, unreliable, and unattractive to users.
