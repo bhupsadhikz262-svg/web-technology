@@ -1,0 +1,79 @@
+Group A: Short Questions (2 Marks)
+1. Define the term ”Protocol” in the context of the Internet.
+Protocol (Internet):
+A protocol is a set of rules and standards that define how data is transmitted and received over the Internet between devices.
+2. What is the primary difference between a Web Browser and a Search Engine?
+Difference between Web Browser and Search Engine:
+A web browser is software used to access and view web pages (e.g., Chrome, Firefox), whereas a search engine is a service that helps users find information on the web (e.g., Google, Bing).
+3. Define the World Wide Web (WWW).
+The World Wide Web is a collection of interconnected web pages and resources accessed through the Internet using web browsers.
+4. Distinguish between a static web page and a dynamic web page.
+	•	A static web page displays fixed content and does not change unless manually updated.
+	•	A dynamic web page displays content that can change based on user interaction, time, or data from a server.
+
+Group B: Long Questions (4 Marks)
+5. Explain the client-server architecture of the web with a neat diagram.
+Client–Server Architecture of the Web:
+
+The client–server architecture is a model where clients (users’ computers or browsers) request services or resources, and servers provide those services or resources.
+	•	The client (web browser) sends a request (HTTP/HTTPS) to the web server.
+	•	The server processes the request, retrieves or generates the required web page.
+	•	The server sends the response back to the client.
+	•	The client displays the received web page to the user.
++---------+        Request (HTTP/HTTPS)        +-----------+
+| Client  | --------------------------------> |   Server  |
+| Browser |                                   | Web Server|
++---------+ <-------------------------------- +-----------+
+             Response (Web Page / Data)
+This architecture allows multiple clients to access services from a central server efficiently
+
+
+6. Describe the functions of the following Internet services: Email, FTP, and VoIP.
+Functions of Internet Services:
+	1.	Email (Electronic Mail):
+Email is used to send and receive electronic messages, documents, images, and other files over the Internet quickly and at low cost.
+	2.	FTP (File Transfer Protocol):
+FTP is used to upload and download files between a client and a server over the Internet.
+	3.	VoIP (Voice over Internet Protocol):
+VoIP allows users to make voice calls and video calls over the Internet instead of traditional telephone networks.
+
+7. ”The Internet is a network of networks.” Elaborate on this statement explaining how
+packet switching works.
+The Internet is called a network of networks because it is formed by connecting many smaller networks (home networks, office networks, ISPs, and backbone networks) across the world. 
+These networks are linked together using standard protocols so they can communicate with each other.
+Packet Switching:
+In packet switching, data is divided into small units called packets.
+Each packet contains the destination address and travels independently through different routes across the network. Routers decide the best available path for each packet.
+At the destination, all packets are reassembled in the correct order to form the original data. This method makes data transmission fast, efficient, and reliable.
+
+Group C: Scenario-Based Questions (5 Marks)
+8. A startup company wants to host a website that displays the same information to all
+visitors and requires very low maintenance costs. However, they are being advised to use
+a dynamic website. As a consultant, would you agree? Justify your answer.
+No, I would not agree with the advice to use a dynamic website.
+Since the startup’s website displays the same information to all visitors and requires very low maintenance cost, a static website is more suitable.
+Static websites are simple, faster to load, more secure, cheaper to host, and do not require databases or server-side programming.
+Dynamic websites are useful only when frequent updates, user interaction, or personalized content is needed, which is not required in this case.
+
+9. A user types www.google.com into their browser, but the browser displays a ”Server Not
+Found” error, even though the internet connection is active. However, accessing the site
+via 142.250.190.46 works. Diagnose the problem and explain the underlying technology
+that failed.
+Diagnosis and Explanation:
+
+The problem is due to a failure in DNS (Domain Name System) resolution.
+
+When a user types www.google.com, the browser uses DNS to translate the domain name into its corresponding IP address.
+Since accessing the website directly using the IP address 142.250.190.46 works, the web server and internet connection are functioning correctly.
+However, the DNS server failed to resolve the domain name to the IP address, resulting in the “Server Not Found” error.
+
+Underlying Technology Failed:
+The Domain Name System (DNS), which acts like the Internet’s phonebook by converting human-readable domain names into machine-readable IP addresses.
+
+10. A multinational corporation wants to share sensitive inventory data with specific suppliers
+but does not want this information available to the general public. Explain which network
+type (Intranet, Extranet, or Internet) they should implement and why.
+Explanation:
+An Extranet allows an organization to securely share selected internal information with authorized external users such as suppliers, partners, or vendors. 
+It provides controlled access using authentication and security measures, ensuring that sensitive inventory data is not available to the general public, unlike the Internet. 
+An Intranet is limited to internal employees only, while the Internet is public.
